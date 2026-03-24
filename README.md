@@ -4,7 +4,7 @@ This project is a basic recipe website built as part of the [The Odin Project](h
 
 ## 🚀 Live Demo
 <!-- Se você ativou o GitHub Pages, coloque o link aqui -->
-[View the Live Preview here](https://github.com/FelippeMenezes.github.io/recipes-top)
+[View the Live Preview here](https://felippemenezes.github.io/recipes-top/)
 
 ## 🛠️ Technologies Used
 *   **HTML5:** Semantic structure, lists, anchor tags, and images.
