@@ -3,8 +3,7 @@
 This project is a basic recipe website built as part of the [The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations) curriculum. The main objective was to demonstrate proficiency in basic HTML structure and Git workflow.
 
 ## 🚀 Live Demo
-<!-- Se você ativou o GitHub Pages, coloque o link aqui -->
-[View the Live Preview here](https://github.com/FelippeMenezes.github.io/recipes-top)
+[View the Live Preview here](https://felippemenezes.github.io/recipes-top/)
 
 ## 🛠️ Technologies Used
 *   **HTML5:** Semantic structure, lists, anchor tags, and images.
